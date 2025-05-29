@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/send_to_robot_v3
+send_to_robot_v3/__init__.py
+send_to_robot_v3/send_to_robot_v3.py
+send_to_robot_v3/simulated_coordinates.py
+send_to_robot_v3.egg-info/PKG-INFO
+send_to_robot_v3.egg-info/SOURCES.txt
+send_to_robot_v3.egg-info/dependency_links.txt
+send_to_robot_v3.egg-info/entry_points.txt
+send_to_robot_v3.egg-info/requires.txt
+send_to_robot_v3.egg-info/top_level.txt
+send_to_robot_v3.egg-info/zip-safe

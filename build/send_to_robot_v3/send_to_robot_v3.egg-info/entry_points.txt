@@ -1,0 +1,4 @@
+[console_scripts]
+send_to_robot = send_to_robot_v3.send_to_robot_v3:main
+simulated_coordinates = send_to_robot_v3.simulated_coordinates:main
+

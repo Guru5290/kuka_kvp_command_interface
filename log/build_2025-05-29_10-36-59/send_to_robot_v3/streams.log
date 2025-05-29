@@ -1,0 +1,24 @@
+[1.359s] Invoking command in '/home/d/send_to_robot_ws/build/send_to_robot_v3': PYTHONPATH=/home/d/send_to_robot_ws/build/send_to_robot_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/d/send_to_robot_ws/build/send_to_robot_v3/build --no-deps symlink_data
+[1.852s] running develop
+[2.222s] running egg_info
+[2.222s] creating send_to_robot_v3.egg-info
+[2.222s] writing send_to_robot_v3.egg-info/PKG-INFO
+[2.223s] writing dependency_links to send_to_robot_v3.egg-info/dependency_links.txt
+[2.223s] writing entry points to send_to_robot_v3.egg-info/entry_points.txt
+[2.223s] writing requirements to send_to_robot_v3.egg-info/requires.txt
+[2.223s] writing top-level names to send_to_robot_v3.egg-info/top_level.txt
+[2.224s] writing manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+[2.227s] reading manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+[2.228s] writing manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+[2.230s] running build_ext
+[2.231s] Creating /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages/send-to-robot-v3.egg-link (link to .)
+[2.232s] Installing send_to_robot script to /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/send_to_robot_v3
+[2.233s] 
+[2.233s] Installed /home/d/send_to_robot_ws/build/send_to_robot_v3
+[2.233s] running symlink_data
+[2.233s] creating /home/d/send_to_robot_ws/install/send_to_robot_v3/share/ament_index
+[2.234s] creating /home/d/send_to_robot_ws/install/send_to_robot_v3/share/ament_index/resource_index
+[2.234s] creating /home/d/send_to_robot_ws/install/send_to_robot_v3/share/ament_index/resource_index/packages
+[2.234s] symbolically linking /home/d/send_to_robot_ws/build/send_to_robot_v3/resource/send_to_robot_v3 -> /home/d/send_to_robot_ws/install/send_to_robot_v3/share/ament_index/resource_index/packages
+[2.234s] symbolically linking /home/d/send_to_robot_ws/build/send_to_robot_v3/package.xml -> /home/d/send_to_robot_ws/install/send_to_robot_v3/share/send_to_robot_v3
+[2.272s] Invoked command in '/home/d/send_to_robot_ws/build/send_to_robot_v3' returned '0': PYTHONPATH=/home/d/send_to_robot_ws/build/send_to_robot_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/d/send_to_robot_ws/build/send_to_robot_v3/build --no-deps symlink_data

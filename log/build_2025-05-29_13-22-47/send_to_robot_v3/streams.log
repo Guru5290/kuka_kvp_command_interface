@@ -1,0 +1,18 @@
+[2.547s] Invoking command in '/home/d/send_to_robot_ws/build/send_to_robot_v3': PYTHONPATH=/home/d/send_to_robot_ws/build/send_to_robot_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/d/send_to_robot_ws/build/send_to_robot_v3/build --no-deps symlink_data
+[3.837s] running develop
+[4.825s] running egg_info
+[4.826s] writing send_to_robot_v3.egg-info/PKG-INFO
+[4.826s] writing dependency_links to send_to_robot_v3.egg-info/dependency_links.txt
+[4.827s] writing entry points to send_to_robot_v3.egg-info/entry_points.txt
+[4.828s] writing requirements to send_to_robot_v3.egg-info/requires.txt
+[4.828s] writing top-level names to send_to_robot_v3.egg-info/top_level.txt
+[4.834s] reading manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+[4.837s] writing manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+[4.842s] running build_ext
+[4.843s] Creating /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages/send-to-robot-v3.egg-link (link to .)
+[4.846s] Installing send_to_robot script to /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/send_to_robot_v3
+[4.847s] Installing simulated_coordinates script to /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/send_to_robot_v3
+[4.848s] 
+[4.848s] Installed /home/d/send_to_robot_ws/build/send_to_robot_v3
+[4.849s] running symlink_data
+[4.963s] Invoked command in '/home/d/send_to_robot_ws/build/send_to_robot_v3' returned '0': PYTHONPATH=/home/d/send_to_robot_ws/build/send_to_robot_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/d/send_to_robot_ws/build/send_to_robot_v3/build --no-deps symlink_data

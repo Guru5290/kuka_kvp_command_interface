@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: send-to-robot-v3
+Version: 0.1.0
+Summary: ROS2 package to send commands to KUKA KR6 R900-2 using KUKAVARPROXY
+Home-page: UNKNOWN
+Maintainer: d
+Maintainer-email: dismaskarimidissy64@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

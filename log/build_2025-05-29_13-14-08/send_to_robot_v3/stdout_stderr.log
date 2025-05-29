@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing send_to_robot_v3.egg-info/PKG-INFO
+writing dependency_links to send_to_robot_v3.egg-info/dependency_links.txt
+writing entry points to send_to_robot_v3.egg-info/entry_points.txt
+writing requirements to send_to_robot_v3.egg-info/requires.txt
+writing top-level names to send_to_robot_v3.egg-info/top_level.txt
+reading manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+writing manifest file 'send_to_robot_v3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/python3.10/site-packages/send-to-robot-v3.egg-link (link to .)
+Installing send_to_robot script to /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/send_to_robot_v3
+Installing simulated_coordinates script to /home/d/send_to_robot_ws/install/send_to_robot_v3/lib/send_to_robot_v3
+
+Installed /home/d/send_to_robot_ws/build/send_to_robot_v3
+running symlink_data
